@@ -1,5 +1,5 @@
-var url = "http://localhost:8080/api/car";
-//var url = "https://mysql-apicars.onrender.com/api/car";
+//var url = "http://localhost:8080/api/car";
+var url = "https://pg-autos.onrender.com/api/car";
 
 function postCar() {
 
